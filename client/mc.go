@@ -12,7 +12,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/dustin/gomemcached"
+	"github.com/jkassemi/gomemcached"
 )
 
 const bufsize = 1024

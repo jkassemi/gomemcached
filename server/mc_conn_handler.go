@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/dustin/gomemcached"
+	"github.com/jkassemi/gomemcached"
 )
 
 // Error returned when a packet doesn't start with proper magic.

@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/dustin/gomemcached"
+	"github.com/jkassemi/gomemcached"
 )
 
 func TestTransmitReq(t *testing.T) {
